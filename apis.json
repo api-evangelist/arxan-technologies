@@ -1,0 +1,63 @@
+{
+    "name": "Arxan Technologies",
+    "description": "Arxan is the trusted leader in application security, protecting applications from the inside out, so they are shielded from app-level attacks that lead to brand damage and financial loss.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19063-arxan-technologies.jpg",
+    "tags": [
+        "api provider",
+        "encryption",
+        "have api",
+        "no api definition",
+        "security"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/arxan-technologies\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Arxan Technologies",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19063-arxan-technologies.jpg",
+            "humanURL": "https:\/\/www.arxan.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/arxan-technologies-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/arxan-technologies-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/www.arxan.com\/company\/blog\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/arxan-technologies"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/www.arxan.com\/apperian\/api"
+        },
+        {
+            "type": "Email",
+            "url": "info@arxan.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Arxan"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.arxan.com\/"
+        }
+    ]
+}
