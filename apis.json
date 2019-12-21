@@ -9,8 +9,8 @@
         "no api definition",
         "security"
     ],
-    "created": "2019-12-19",
-    "modified": "2019-12-19",
+    "created": "2019-12-20",
+    "modified": "2019-12-20",
     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/arxan-technologies\/master\/apis.json",
     "specificationVersion": "0.14",
     "apis": [
@@ -24,17 +24,17 @@
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/arxan-technologies-openapi.json"
-                },
-                {
-                    "type": "x-postman-collecction",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/arxan-technologies-postman-collection.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/arxan-technologies\/master\/arxan-technologies-openapi.json"
                 }
             ]
         }
     ],
     "include": [],
     "x-common": [
+        {
+            "type": "APIs.json",
+            "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apis.json"
+        },
         {
             "type": "Blog",
             "url": "https:\/\/www.arxan.com\/company\/blog\/"
